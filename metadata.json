@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Top Dog",
+  "description": "An endless athletic dog runner game with 3D lane perspective, obstacles, power-ups, character selection, evolutions, daily rewards, achievements, and multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
